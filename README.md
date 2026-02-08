@@ -1,4 +1,4 @@
-# Heart Disease Analysis and Prediction – Machine Learning From Scratch
+# Heart Disease Analysis and Prediction
 
 ## Project Description
 
